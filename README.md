@@ -9,7 +9,6 @@ A full-featured **Learning Management System (LMS)** built from scratch using th
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Demo](#demo)
-- [Screenshots](#screenshots)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -50,19 +49,14 @@ A full-featured **Learning Management System (LMS)** built from scratch using th
 
 ##  Demo
 
-Live demo (if hosted):  
-[Your Deployed URL (Netlify, Vercel, Heroku, AWS, etc.)]
+Live demo :  
+[will be added soon]
 
 ---
 
-##  Screenshots
 
-_Add here relevant screenshots such as:_
 
-- User login/signup screen  
-- Instructor dashboard (course list, create/edit)  
-- Student course catalog  
-- Lesson view interface  
+
 
 ---
 
